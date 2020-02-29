@@ -1,0 +1,34 @@
+﻿  Tester.cpp
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(31,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(38,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(62,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(72,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(72,49): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(112,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(112,49): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(127,34): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(127,49): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(166,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(184,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(190,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(220,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(222,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(253,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(257,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(259,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(285,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(289,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Sea_Battle.h(291,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Tester.cpp(52,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Tester.cpp(109,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\alex\source\repos\Sea_Battle\Sea_Battle\Tester.cpp(115,35): warning C4018: <: несоответствие типов со знаком и без знака
+  Sea_Battle.vcxproj -> C:\Users\alex\source\repos\Sea_Battle\Debug\Sea_Battle.exe
